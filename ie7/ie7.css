@@ -7,7 +7,7 @@
 .state-kelantan {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
 }
-.state-kuala_lumpur {
+.state-kuala-lumpur {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
 }
 .state-labuan {
@@ -16,7 +16,7 @@
 .state-melaka {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
 }
-.state-negeri_sembilan {
+.state-negeri-sembilan {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
 }
 .state-pahang {
@@ -28,7 +28,7 @@
 .state-perlis {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe909;');
 }
-.state-pulau_pinang {
+.state-pulau-pinang {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90a;');
 }
 .state-putrajaya {

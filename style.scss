@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ykbtwj');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ykbtwj#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ykbtwj') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ykbtwj') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ykbtwj##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lc7hzr');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lc7hzr#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lc7hzr') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lc7hzr') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lc7hzr##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -41,9 +41,9 @@
     content: $state-kelantan; 
   }
 }
-.state-kuala_lumpur {
+.state-kuala-lumpur {
   &:before {
-    content: $state-kuala_lumpur; 
+    content: $state-kuala-lumpur; 
   }
 }
 .state-labuan {
@@ -56,9 +56,9 @@
     content: $state-melaka; 
   }
 }
-.state-negeri_sembilan {
+.state-negeri-sembilan {
   &:before {
-    content: $state-negeri_sembilan; 
+    content: $state-negeri-sembilan; 
   }
 }
 .state-pahang {
@@ -76,9 +76,9 @@
     content: $state-perlis; 
   }
 }
-.state-pulau_pinang {
+.state-pulau-pinang {
   &:before {
-    content: $state-pulau_pinang; 
+    content: $state-pulau-pinang; 
   }
 }
 .state-putrajaya {

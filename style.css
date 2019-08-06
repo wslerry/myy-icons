@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'myy';
-  src:  url('fonts/myy.eot?ykbtwj');
-  src:  url('fonts/myy.eot?ykbtwj#iefix') format('embedded-opentype'),
-    url('fonts/myy.ttf?ykbtwj') format('truetype'),
-    url('fonts/myy.woff?ykbtwj') format('woff'),
-    url('fonts/myy.svg?ykbtwj#myy') format('svg');
+  src:  url('fonts/myy.eot?lc7hzr');
+  src:  url('fonts/myy.eot?lc7hzr#iefix') format('embedded-opentype'),
+    url('fonts/myy.ttf?lc7hzr') format('truetype'),
+    url('fonts/myy.woff?lc7hzr') format('woff'),
+    url('fonts/myy.svg?lc7hzr#myy') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,7 +33,7 @@
 .state-kelantan:before {
   content: "\e902";
 }
-.state-kuala_lumpur:before {
+.state-kuala-lumpur:before {
   content: "\e903";
 }
 .state-labuan:before {
@@ -42,7 +42,7 @@
 .state-melaka:before {
   content: "\e905";
 }
-.state-negeri_sembilan:before {
+.state-negeri-sembilan:before {
   content: "\e906";
 }
 .state-pahang:before {
@@ -54,7 +54,7 @@
 .state-perlis:before {
   content: "\e909";
 }
-.state-pulau_pinang:before {
+.state-pulau-pinang:before {
   content: "\e90a";
 }
 .state-putrajaya:before {
